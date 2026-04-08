@@ -123,15 +123,7 @@ MONGO_URI=mongodb://localhost:27017/ecommerce
 
 ---
 
-### 4. Run Backend
-
-```bash
-npm run dev
-```
-
----
-
-## 🐳 Run Redis (Docker)
+###4. 🐳 Run Redis (Docker)
 
 ```bash
 docker run -d -p 6379:6379 --name redis-server redis:7
@@ -145,6 +137,13 @@ docker run -d -p 6379:6379 --name redis-server redis:7
 docker run -d -p 80:80 \
 -v "<FULL_PATH_TO_nginx.conf>:/etc/nginx/nginx.conf" \
 --name nginx-server nginx
+```
+
+---
+##  Run Backend
+
+```bash
+npm run dev
 ```
 
 ---
