@@ -99,7 +99,7 @@ nginx/
 
 ```bash
 git clone https://github.com/Bhushan5858/redis-nginx-express-mongodb.git
-cd redis-nginx-express-mongodb (project-folder)
+cd redis-nginx-express-mongodb
 ```
 
 ---
