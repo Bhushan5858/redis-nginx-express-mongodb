@@ -123,7 +123,7 @@ MONGO_URI=mongodb://localhost:27017/ecommerce
 
 ---
 
-###4. 🐳 Run Redis (Docker)
+### 4. 🐳 Run Redis (Docker)
 
 ```bash
 docker run -d -p 6379:6379 --name redis-server redis:7
