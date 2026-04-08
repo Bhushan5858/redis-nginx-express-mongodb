@@ -131,7 +131,7 @@ docker run -d -p 6379:6379 --name redis-server redis:7
 
 ---
 
-## 🐳 Run Nginx (Docker)
+### 5. 🐳 Run Nginx (Docker)
 
 ```bash
 docker run -d -p 80:80 \
@@ -140,7 +140,7 @@ docker run -d -p 80:80 \
 ```
 
 ---
-##  Run Backend
+### 6.  Run Backend
 
 ```bash
 npm run dev
