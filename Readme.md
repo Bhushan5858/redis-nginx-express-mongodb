@@ -98,7 +98,7 @@ nginx/
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Bhushan5858/redis-nginx-express-mongodb.git
 cd <project-folder>
 ```
 
